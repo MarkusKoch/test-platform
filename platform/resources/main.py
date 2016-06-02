@@ -1,0 +1,3 @@
+
+class MainResource(object):
+    pass
